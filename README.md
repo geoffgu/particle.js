@@ -1,4 +1,5 @@
-# particle.js
+# particle.js 
+[![Build Status](https://travis-ci.org/geoffgu/particle.js.svg?branch=master)](https://travis-ci.org/geoffgu/particle.js)
 ## How to use?
 Example:<br/>
     `new particle({
