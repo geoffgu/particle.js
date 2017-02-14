@@ -25,7 +25,6 @@ class particle {
       ctx = this.ele.getContext('2d');
     }
     let image = new Image();
-    image.src = this.src;
     let that = this;
     image.onload = function () {
       ctx.drawImage(image, that.cropStartPointX, that.cropStartPointY, that.cropX, that.cropY, 0, 0, that.cropX, that.cropY);
@@ -107,6 +106,8 @@ class particle {
       }
       requestAnimationFrame(animate);
     }
+    image.crossOrigin = 'anonymous'
+    image.src = this.src
   }
 }
 
