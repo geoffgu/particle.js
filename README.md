@@ -2,8 +2,8 @@
 ## How to use?
 Example:<br/>
 ```javascript
-import from 'particle'
-new particle({
+import particleJS from 'particle.js'
+new particleJS({
   element: 'canvas',
   imagePath: '/images/logo-float.png',
   cropStartPointX: 0,
