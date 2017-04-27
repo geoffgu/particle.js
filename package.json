@@ -1,0 +1,23 @@
+{
+  "name": "particle.js",
+  "description": "A particle animation for picture",
+  "author": {
+    "name": "Geoff Gu"
+  },
+  "version": "1.0.0",
+  "private": true,
+  "keywords": [
+    "particle",
+    "particles",
+    "particle.js",
+    "particleJS"
+  ],
+  "main": "src/particle.js",
+  "homepage": "https://github.com/geoffgu/particle.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geoffgu/particle.js.git"
+  },
+  "dependencies": {
+  }
+}

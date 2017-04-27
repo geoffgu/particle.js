@@ -128,6 +128,4 @@ class particle {
   }
 }
 
-export {
-  particle
-}
+export default particle
