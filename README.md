@@ -27,4 +27,4 @@ new particleJS({
 }).render();
 ```
 
-Just new an object, then pass your arguments. BTW, you may need webpack and babel loader to run this es6 component.
+Just new an object, then pass your arguments. Have fun!
