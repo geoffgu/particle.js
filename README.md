@@ -5,7 +5,7 @@ Example:<br/>
 npm install particle.js --save
 ```
 ```javascript
-import particleJS from 'particle.js' // var particleJS = require('particle.js')
+import particleJS from 'particle.js'
 
 new particleJS({
   element: 'canvas',
