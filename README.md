@@ -3,6 +3,7 @@
 Example:<br/>
 ```javascript
 import particleJS from 'particle.js'
+
 new particleJS({
   element: 'canvas',
   imagePath: '/images/logo-float.png',
