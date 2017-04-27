@@ -2,6 +2,9 @@
 ## How to use?
 Example:<br/>
 ```javascript
+npm install particle.js --save
+```
+```javascript
 import particleJS from 'particle.js'
 
 new particleJS({
